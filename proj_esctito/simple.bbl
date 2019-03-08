@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+
+\bibitem{Oppenheim}
+Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. 1999. Discrete-Time Signal Processing (2nd Ed.). Prentice-Hall, Inc., Upper Saddle River, NJ, USA.
+
+\bibitem{butter}
+\url{http://www.estgv.ipv.pt/paginaspessoais/maeb/SPD/Teorico_Praticas_PDF/Guia%20TP7_Filtros%20IIR%20Solu%C3%A7%C3%B5es.pdf}
+ 
+\bibitem{vag}
+Santos V. da Rosa, 2005. Uma ferramenta para a geração otimizada de Filtros FIR paralelos com coeficientes constantes. Porto Alegre, RS, BR.
+
+\end{thebibliography}
